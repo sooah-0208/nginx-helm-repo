@@ -7,5 +7,5 @@ Helm chart repository provided by SOOAH
   helm repo list
   helm repo update
   helm search repo mynginx
-  helm install webserver nginx-helm-repo/mynginx
+  helm install my-server nginx-helm-repo/mynginx
 ```
