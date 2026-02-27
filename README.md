@@ -1,7 +1,5 @@
 # nginx-helm-repo
 
-hi
-
 Helm chart repository provided by SOOAH
 
 ```
